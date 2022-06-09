@@ -51,14 +51,12 @@ Output summary for the model using Closing Prices:
 
 Model using FNG prices:
 
-<img width="225" alt="Screen Shot 2022-06-08 at 10 34 29 PM" src="https://user-images.githubusercontent.com/99091066/172751970-6611532f-ef34-45d1-8651-9825e31d2305.png">
-
-
+<img width="76" alt="Screen Shot 2022-06-08 at 11 18 36 PM" src="https://user-images.githubusercontent.com/99091066/172756922-83001085-f6c3-4b1d-b793-ea902f3cee86.png">
 
 Model using closing prices: 
 
+<img width="89" alt="Screen Shot 2022-06-08 at 11 19 02 PM" src="https://user-images.githubusercontent.com/99091066/172756970-d311b4c2-29ac-4b1f-be1e-73a6ab324534.png">
 
-<img width="245" alt="Screen Shot 2022-06-08 at 10 31 56 PM" src="https://user-images.githubusercontent.com/99091066/172751723-64c9a06d-938f-4d5d-9436-3cb74237d187.png">
 
 Comparing the two, the model using the closing prices only has a lower loss `0.0290` vs `0.1710`
 
