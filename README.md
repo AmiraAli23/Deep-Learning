@@ -107,7 +107,7 @@ Closing Prices:
 <img width="391" alt="Screen Shot 2022-06-08 at 10 55 12 PM" src="https://user-images.githubusercontent.com/99091066/172754346-c7ef14c0-82f7-4846-be96-02e3c79925e5.png">
 
 
-By changing the window from 10 to 4 and 6, it is clear that the higher the window size, the more smoother the "predicted" line appears. At window size 4, the predicted line follows the same harsh fluctuations as the real values. Decreasing the window size makes the predicted line more similar to the real line and thus, a more accurate representation. 
+By changing the window from 10 to 4 and 6, it is clear that a larger window size corresponds with smoother predicted lines. At window size 4, the predicted line follows the same harsh fluctuations as the real values. Decreasing the window size makes the predicted line more similar to the real line and thus, a more accurate representation. 
 
 
 
