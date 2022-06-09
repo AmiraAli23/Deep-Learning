@@ -87,6 +87,7 @@ The graphs above were for the window size 10.
 ### Window size 4
 
 FNG:
+
 <img width="391" alt="Screen Shot 2022-06-08 at 10 47 03 PM" src="https://user-images.githubusercontent.com/99091066/172753378-d9889f9b-7244-498b-b567-f6240dab2b86.png">
 
 
