@@ -8,7 +8,7 @@ In this assignment, I will use deep learning recurrent neural networks to model 
 
 ## Prepare the data for training and testing
 
-For both data files , [btc historic] (https://github.com/AmiraAli23/Deep-Learning/blob/87358f40159047e02de42421a6729a0919cadd00/btc_historic.csv) and [btc sentiment](https://github.com/AmiraAli23/Deep-Learning/blob/87358f40159047e02de42421a6729a0919cadd00/btc_sentiment.csv), I joined and cleaned the data. 
+For both data files , [btc historic](https://github.com/AmiraAli23/Deep-Learning/blob/87358f40159047e02de42421a6729a0919cadd00/btc_historic.csv) and [btc sentiment](https://github.com/AmiraAli23/Deep-Learning/blob/87358f40159047e02de42421a6729a0919cadd00/btc_sentiment.csv), I joined and cleaned the data. 
 
 Each model used 70% of the data for training and 30% for testing. To reflect this, i used the following code:
 
